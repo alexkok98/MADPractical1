@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HappyBirthDay</string>
+    <string name="hbd_text">Happy Birthday~<br></br>Wade</string>
+    <string name="signature_text">From Jun</string>
+</resources>
